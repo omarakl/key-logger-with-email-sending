@@ -9,4 +9,4 @@ How to use :
 3.	Specify your reciever Gmail account --> The email that will recieve the output from the sender email
 
 
-Omar Akl (5.4.2021)
+Omar Akl (4.5.2021)
