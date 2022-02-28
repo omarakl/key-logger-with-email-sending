@@ -1,4 +1,4 @@
-This Key logger is designed to record the keyboard keys typing and stores the records in a file that will send every 100 characters separately in a specified
+This Key logger is designed to record the keyboard keys typing and stores the records in a file that will send every 100 characters separately to a specified
 email. (Note that spaces, backspaces are considered characters)
 
 How to use :
